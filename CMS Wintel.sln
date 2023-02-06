@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F5034706-568F-408A-B7B3-4D38C6DB8A32}") = "CMS Wintel", "CMS Wintel\CMS Wintel.pssproj", "{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}"
+EndProject
+Project("{F5034706-568F-408A-B7B3-4D38C6DB8A32}") = "check uptime on servers", "check uptime on servers\check uptime on servers.pssproj", "{FB2541BE-1FA2-4EB9-9EA5-C94315B2DAAF}"
+EndProject
+Project("{F5034706-568F-408A-B7B3-4D38C6DB8A32}") = "checking service running status on servers", "checking service running status on servers\checking service running status on servers.pssproj", "{2A612FD4-81A7-4B45-82E1-6794C90026DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAFC0C6-A428-4D30-A9F9-700E829FEA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2541BE-1FA2-4EB9-9EA5-C94315B2DAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2541BE-1FA2-4EB9-9EA5-C94315B2DAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2541BE-1FA2-4EB9-9EA5-C94315B2DAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2541BE-1FA2-4EB9-9EA5-C94315B2DAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A612FD4-81A7-4B45-82E1-6794C90026DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A612FD4-81A7-4B45-82E1-6794C90026DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A612FD4-81A7-4B45-82E1-6794C90026DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A612FD4-81A7-4B45-82E1-6794C90026DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00BBB043-30FE-458B-AD6A-AB5B5BAE781F}
+	EndGlobalSection
+EndGlobal
